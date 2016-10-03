@@ -40,3 +40,12 @@ To see the program in action while cataloging a drive, check the following scree
 To have an idea about what is stored in the database by the program, next image capture illustrates the different fields of the file_info table for some drive.
 
 ![promisechains](https://github.com/IhabMoha/Drive-Cataloger/blob/master/Cataloger%20Screen%20Shots/cataloger_7.PNG)
+
+
+
+Finally, the search window below shows how to search for a folder/file using diffferent combination of information:
+
+![promisechains](https://github.com/IhabMoha/Drive-Cataloger/blob/master/Cataloger%20Screen%20Shots/cataloger_8.PNG)
+
+
+Certainly there is a huge space for more features and enhancements. For example, catalog a specific folder, use machine learning or deep learning in the search, etc.
