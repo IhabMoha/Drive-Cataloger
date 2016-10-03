@@ -1,5 +1,5 @@
 # Drive-Cataloger
-A disk utility program to catalog all folders/files on a specific drive and save all information on a MySQL database.
+A disk utility program to catalog all folders/files on a specific drive and save all information on a MySQL database, it was implemented in C#.
 
 The fllowing screen shot shows the main window:
 
