@@ -1,0 +1,7 @@
+﻿
+
+1- Create Options sub menu.
+2- Put MySQL connection information (Server, Port, Username, Password) in the
+   option sub menu and remove them from new and change forms.
+3- Put a default database settings in the option sub menu.
+4- 
